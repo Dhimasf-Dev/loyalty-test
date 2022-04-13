@@ -1,0 +1,13 @@
+.detail-container {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 40%;
+    height: 350px;
+    margin: 150px 30vw;
+    text-align: center;
+}
+
+.cover-img {
+    width: 100px;
+    margin: 40px 0 10px 0;
+}
